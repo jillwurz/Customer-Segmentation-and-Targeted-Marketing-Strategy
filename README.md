@@ -62,14 +62,6 @@ Customer segmentation is the process of dividing customers into groups that shar
 - **Total Purchases**: Sum of 'NumWebPurchases', 'NumCatalogPurchases', 'NumStorePurchases', and 'NumDealsPurchases'
 - **Total Accepted Campaigns**: Sum of 'AcceptedCmp1', 'AcceptedCmp2', 'AcceptedCmp3', 'AcceptedCmp4', 'AcceptedCmp5', and 'Response'
 
-## Libraries Used
-- **Pandas**: For data manipulation and analysis
-- **NumPy**: For numerical computations
-- **Matplotlib & Seaborn**: For data visualization
-- **Scikit-learn**: For preprocessing and machine learning
-- **Yellowbrick**: For visualizing the performance of machine learning models
-- **Plotly**: For interactive visualizations
-
 ## Data Preprocessing
 1. **Handling Missing Values**: 
    - The 'Income' column had missing values which were filled using the mean income.
