@@ -89,3 +89,7 @@ The model was built using the KMeans clustering algorithm to segment customers i
 
 ## Results
 The clustering model successfully grouped customers into distinct segments. These segments can be used to tailor marketing strategies, optimize product offerings, and improve customer retention.
+
+## Files in This Repository
+- `Customer Segmentation and Targeted Marketing Strategy.ipynb`
+- `marketing_campaign`
