@@ -84,4 +84,4 @@ The clustering model successfully grouped customers into distinct segments. Thes
 
 ## Files in This Repository
 - `Customer Segmentation and Targeted Marketing Strategy.ipynb`
-- `marketing_campaign`
+- `marketing_campaign.csv`
